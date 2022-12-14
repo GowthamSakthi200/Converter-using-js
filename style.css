@@ -1,0 +1,112 @@
+*
+{
+    background-color: #acc0e3;
+}
+.logo
+{
+    color: black;
+    font-size: 20px;
+    display: flex;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.logo p
+{
+    padding-left: 10px;
+}
+.logo img
+{
+    padding-top: 15px;
+}
+p
+{
+    color: black;
+    text-align: center;
+}
+.welcome
+{
+    font-size: 45px;
+}
+.welcome1
+{
+    color: blue;
+}
+.welcome2
+{
+    font-size: 27px;
+}
+.opt
+{
+    border: 3px solid black;
+    height: 50px;
+    width: 250px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.option
+{
+    font-size: 20px;
+    text-align: center;
+}
+.opt:hover
+{
+    width: 280px;
+    transition-duration: 0.4s;
+}
+
+
+
+.border
+{
+    border: 3px solid black;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    margin: 100px;
+}
+.head
+{
+    font-size: 45px;
+    text-align: center;
+    color: blue;
+}
+.description
+{
+    font-size: 20px;
+}
+.border input
+{
+    border-radius: 8px;
+    height: 30px;
+    width: 200px;
+    font-size: 17px;
+    border: 2px solid black;
+    margin-top: 20px;
+    text-align: center;
+    align-content: center;
+}
+.btn
+{
+   border: 2px solid black;
+   height: 35px;
+   width: 350px;
+   margin-top: 35px;
+   font-size: 17px;
+   border-radius: 10px;
+}
+.box
+{
+    text-align: center;
+}
+
+
+.reset
+{
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+.home
+{
+    text-decoration: none;
+    color: black;
+}
