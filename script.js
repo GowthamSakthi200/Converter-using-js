@@ -4,12 +4,12 @@ function convert()
     var inr=document.getElementById('inputinr').value;
     if(usd!=0)
     {
-        var cinr=(usd * 82.70);
+        var cinr=(usd * 82.79);
         document.getElementById('inputinr').value=cinr;
     }
     else
     {
-        var cusd=(inr / 82.70).toFixed(2);
+        var cusd=(inr / 82.79).toFixed(2);
         document.getElementById('inputusd').value=cusd;
     }
 }
